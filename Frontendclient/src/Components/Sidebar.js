@@ -5,7 +5,12 @@ import y2 from '../images/y2.png';
 import { faCircle } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
-
+/**
+ * 
+ * une modification pour test
+ * 
+ * 
+ */
 
 const Sidebar = () => {
     return (
