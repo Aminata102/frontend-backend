@@ -5,6 +5,8 @@ import y2 from '../images/y2.png';
 import { faCircle } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
+
+
 const Sidebar = () => {
     return (
         <div className="w-64 bg-gray-800 fixed h-full">
